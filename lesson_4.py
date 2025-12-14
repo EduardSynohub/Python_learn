@@ -60,3 +60,8 @@ while True:
         break
     else:
         print("We don`t have that country")
+
+print("Extra task:")
+list_5 = [11, 23, 36]
+for i, n in enumerate(list_5):
+    print(i, n)
