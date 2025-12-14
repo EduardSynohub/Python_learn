@@ -11,6 +11,7 @@ print(calc.add(num_1, num_2))
 print(calc.subtract(num_1, num_2))
 print(calc.multiply(num_1, num_2))
 print(calc.divide(num_1, num_2))
+print(calc.divide(num_1, num_3))
 
 print("Task 2")
 
