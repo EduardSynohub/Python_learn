@@ -60,6 +60,3 @@ while True:
         break
     else:
         print("We don`t have that country")
-
-print("Task 9:")
-
